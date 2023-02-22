@@ -1,0 +1,8 @@
+Boutique 
+affichage des produits ->getProduct()
+affichage des categorie ->getCategorie()
+Customer 
+S'inscrir -> createCustomer()
+se connexion ->authentification()
+Achat -> createOrder()
+Mise a jour les données perso -> UpdateInfoCustomer()
